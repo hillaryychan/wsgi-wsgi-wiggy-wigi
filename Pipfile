@@ -8,6 +8,7 @@ jedi = "*"
 pylint = "*"
 flake8 = "*"
 flask = "*"
+gunicorn = "*"
 
 [dev-packages]
 

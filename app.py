@@ -10,7 +10,3 @@ def index():
 @app.route("/healthcheck")
 def healthcheck():
     return "I am alive!"
-
-
-if __name__ == "__main__":
-    app.run()
